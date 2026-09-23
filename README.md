@@ -19,7 +19,8 @@
 | Runtool 统一测试平台（脱敏复盘） | 软件测试 / 自动化 / 平台化 | TCL、Shell、批量任务、结果统计、报告自动化、流程标准化 | [查看项目复盘](docs/runtool-case-study.md) |
 | 归山村落运营协作小程序 | 业务系统 / 微信小程序 / AI | 云函数、云数据库、任务、库存、采购、财务、权限、AI 辅助 | [GitHub](https://github.com/kaki2021/guishan-village-ops-miniapp) |
 | 观象 · 六爻占问 Android | Android / Python / 规则引擎 / AI | Java、Chaquopy、Python、SQLite、WebView、AES、模型 API | [GitHub](https://github.com/kaki2021/liuyao-divination-android) |
-| 归山村落 · 新村落文明实践 | 产品 / 小程序 / 内容与生态系统 | 微信云开发、活动、节点、身份、内容、AI 向导、资料体系 | [GitHub](https://github.com/kaki2021/guishan-village-ecosystem) |\n| 共创协作框架 | 组织设计 / 规则系统 / AI 辅助 | 节点自主、网状协作、分形结构、贡献核算、治理、提示词 | [GitHub](https://github.com/kaki2021/co-creation-framework) |
+| 归山村落 · 新村落文明实践 | 产品 / 小程序 / 内容与生态系统 | 微信云开发、活动、节点、身份、内容、AI 向导、资料体系 | [GitHub](https://github.com/kaki2021/guishan-village-ecosystem) |
+| 共创协作框架 | 组织设计 / 规则系统 / AI 辅助 | 节点自主、网状协作、分形结构、贡献核算、治理、提示词 | [GitHub](https://github.com/kaki2021/co-creation-framework) |
 
 ---
 
